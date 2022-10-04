@@ -9,6 +9,7 @@ import { InnerheaderComponent } from './awslowerbody/centerdisplay/innerheader/i
 import { RecentvisitwelcomerowComponent } from './awslowerbody/centerdisplay/recentvisitwelcomerow/recentvisitwelcomerow.component';
 import { HealthcostusagerowComponent } from './awslowerbody/centerdisplay/healthcostusagerow/healthcostusagerow.component';
 import { BuildsolutiontrustedrowComponent } from './awslowerbody/centerdisplay/buildsolutiontrustedrow/buildsolutiontrustedrow.component';
+import { ResusablecardComponent } from './ui/resusablecard/resusablecard.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { BuildsolutiontrustedrowComponent } from './awslowerbody/centerdisplay/b
     InnerheaderComponent,
     RecentvisitwelcomerowComponent,
     HealthcostusagerowComponent,
-    BuildsolutiontrustedrowComponent
+    BuildsolutiontrustedrowComponent,
+    ResusablecardComponent
   ],
   imports: [
     BrowserModule

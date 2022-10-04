@@ -1,0 +1,27 @@
+.innerheader-container {
+  display: flex;
+  min-height: 4rem;
+  width: 100%;
+  background-color: aqua;
+}
+
+.recentvisit-welcomerow-container {
+  display: flex;
+  min-height: 20rem;
+  width: 100%;
+  background-color: red;
+}
+
+.healthcost-usagerow-container {
+  display: flex;
+  min-height: 20rem;
+  width: 100%;
+  background-color: lightgreen;
+}
+
+.buildsolution-trustedrow {
+  display: flex;
+  min-height: 20rem;
+  width: 100%;
+  background-color: chocolate;
+}
