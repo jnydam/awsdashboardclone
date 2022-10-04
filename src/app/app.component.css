@@ -1,0 +1,14 @@
+.awsheader-container {
+  display: flex;
+  min-height: 3rem;
+  background-color: orange;
+  width: 100%;
+}
+
+.awslowerbody-container {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  background-color: pink;
+  justify-content: center;
+}

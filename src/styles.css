@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+.app-root-container {
+  display: flex;
+  height: 100vh;
+  width: 100%;
+  background-color: green;
+  flex-direction: column;
+}
+
+body {
+  margin: 0;
+}
