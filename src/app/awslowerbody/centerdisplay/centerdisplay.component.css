@@ -3,6 +3,7 @@
   min-height: 4rem;
   width: 100%;
   background-color: aqua;
+  justify-content: space-between;
 }
 
 .recentvisit-welcomerow-container {
